@@ -55,3 +55,9 @@ The `ann` function in `mnist_classification.py` uses Keras Tuner to search for t
 ## Visualizations
 
 Sample predictions on test images are visualized in the script output. Generated images from the GAN model (if applicable) are saved as PNG files.
+
+## Feedback and Contributions
+
+Feel free to provide feedback or contribute to this project. If you have suggestions for improvements or additional features, your contributions are welcome!
+
+[View the LinkedIn post for video demo](https://www.linkedin.com/posts/kaibalyamohapatra_python-tkinter-pil-activity-7221015221878898688-msf_?utm_source=share&utm_medium=member_desktop)
